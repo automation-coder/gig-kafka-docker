@@ -1,0 +1,32 @@
+﻿[
+  {
+    "brandName": "Tata",
+    "model": "Tiago",
+    "noOfDoors": 4,
+    "isSportsCar": false
+  },
+  {
+    "brandName": "Maruti",
+    "model": "Swift",
+    "noOfDoors": 4,
+    "isSportsCar": false
+  },
+  {
+    "brandName": "Toyota",
+    "model": "Innova",
+    "noOfDoors": 4,
+    "isSportsCar": true
+  },
+  {
+    "brandName": "BMW",
+    "model": "X25",
+    "noOfDoors": 4,
+    "isSportsCar": true
+  },
+  {
+    "brandName": "Hyundai",
+    "model": "Grand i10",
+    "noOfDoors": 4,
+    "isSportsCar": false
+  }
+]

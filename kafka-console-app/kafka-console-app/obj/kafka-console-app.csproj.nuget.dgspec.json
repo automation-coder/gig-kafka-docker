@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/kafka-console-app.csproj": {}
+  },
+  "projects": {
+    "/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/kafka-console-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/kafka-console-app.csproj",
+        "projectName": "kafka-console-app",
+        "projectPath": "/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/kafka-console-app.csproj",
+        "packagesPath": "/Users/abhigyanojha/.nuget/packages/",
+        "outputPath": "/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/abhigyanojha/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

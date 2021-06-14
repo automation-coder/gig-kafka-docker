@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1F812264-8CC4-43F9-A276-63F404C923D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.kafka-producer-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kafka-producer-api/Startup.cs">
+    <Files>
+      <File FileName="kafka-producer-api/Controllers/KafkaProducerController.cs" Line="22" Column="30" />
+      <File FileName="kafka-producer-api/model/Car.cs" Line="10" Column="6" />
+      <File FileName="kafka-producer-api/Startup.cs" Line="30" Column="67" />
+      <File FileName="kafka-producer-api/Properties/launchSettings.json" Line="14" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kafka-producer-api" expanded="True">
+            <Node name="kafka-producer-api" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/abhigyanojha/Projects/kafka-producer-api/kafka-producer-api/Controllers/KafkaProducerController.cs" relfile="kafka-producer-api/Controllers/KafkaProducerController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/abhigyanojha/Projects/kafka-producer-api/kafka-producer-api/Startup.cs" relfile="kafka-producer-api/Startup.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

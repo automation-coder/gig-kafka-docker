@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{3A71AB5E-EBC9-4429-B94E-05DE89E8445C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kafka-console-app/messages/car.json">
+    <Files>
+      <File FileName="kafka-console-app/poco/Car.cs" Line="15" Column="1" />
+      <File FileName="kafka-console-app/util/JsonActions.cs" />
+      <File FileName="kafka-console-app/Consumer.cs" Line="28" Column="1" />
+      <File FileName="kafka-console-app/services/KafkaConsumerService.cs" Line="12" Column="50" />
+      <File FileName="kafka-console-app/messages/car.json" Line="32" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kafka-console-app" expanded="True">
+            <Node name="kafka-console-app" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="messages" expanded="True">
+                <Node name="car.json" selected="True" />
+              </Node>
+              <Node name="poco" expanded="True" />
+              <Node name="services" expanded="True" />
+              <Node name="util" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.kafka-console-app PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/Program.cs" relfile="kafka-console-app/Program.cs" line="86" column="1" />
+      <Breakpoint file="/Users/abhigyanojha/Projects/kafka-console-app/kafka-console-app/poco/Car.cs" relfile="kafka-console-app/poco/Car.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

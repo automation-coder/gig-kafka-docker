@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQHzWhmnkeJPN9o3EJ2Y3CzLSV2G/NtPx9sVSkyu/h78PgT6A5WHk8UNV0MvqXDZ9XeOmzt7s+35B5gX9DwwNw==",
+  "success": true,
+  "projectFilePath": "/Users/abhigyanojha/Projects/kafka-producer-api/kafka-producer-api/kafka-producer-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/abhigyanojha/.nuget/packages/confluent.kafka/1.7.0/confluent.kafka.1.7.0.nupkg.sha512",
+    "/Users/abhigyanojha/.nuget/packages/librdkafka.redist/1.7.0/librdkafka.redist.1.7.0.nupkg.sha512",
+    "/Users/abhigyanojha/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/abhigyanojha/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
