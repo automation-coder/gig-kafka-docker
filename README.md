@@ -29,4 +29,4 @@ Note : In */services/KafkaConsumerService.cs*, there is a max time out of 30 sec
   4. Run the *kafka-console-app* application
   5. Send the message from Postman and observe the Terminal window of *kafka-console-app*
   6. Once all the messages are consumed, and the time out period is over, comparison between produced and Consumed messages will be shown.
-  7. User can play around with the Json file to test positive and negative scenarios.
+  7. Change the request body json in Postman and redo steps 4-7 to verify the negative scenario.
